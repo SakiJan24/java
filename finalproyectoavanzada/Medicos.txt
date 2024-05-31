@@ -1,0 +1,5 @@
+INTERNISTA,1,Pedro,90000;Medicina Interna,Andes
+INTERNISTA,294387,Gabriel,90000;Medicina Interna,Libre
+PEDIATRA,46564,Juan Jose,6000;Pediatria,Fucs
+INTERNISTA,6777,Doctor1,70000;Medicina Interna,Javeriana
+PEDIATRA,9888,Doctor2,90000;Pediatria,Andes
